@@ -1,18 +1,19 @@
-# leiden2018-alpha
+# Leiden2018-alpha
 
 Leiden work on Upsilon 1.1 (`e3`) and Venetus B (`vb`).
 
-## table of contents
+## Table of contents
 * https://github.com/hmteditors/leiden2018-alpha#current-editing-assignment
 * https://github.com/hmteditors/leiden2018-alpha#git-sequence
 * https://github.com/hmteditors/leiden2018-alpha#greek-counting
 * https://github.com/hmteditors/leiden2018-alpha#special-characters
 * https://github.com/hmteditors/leiden2018-alpha#useful-links
 
-## current editing assignment
+## Current editing assignment
 * [Upsilon 1.1, folio 132 verso + 133 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_132v_133r): *Iliad* 10.387-410 and 10.411-434
 * [Venetus B, folio 137 verso + 138 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_137v_138r): *Iliad* 10.387-410 and 10.411-434
 
+[(return to top)](https://github.com/hmteditors/leiden2018-alpha#leiden2018-alpha)
 
 ## git sequence
 First time:
@@ -28,6 +29,18 @@ git add *
 git commit -m "..."
 git push
 git pull
+```
+
+To set a default github account for everything (necessary only once):
+```
+git config --global user.name "github account name"
+git config --global user.email "github e-mail address"
+```
+
+To set a default github account specifically for only one repository (optional, in case you have multiple accounts):
+```
+git config --local user.name "github account name"
+git config --local user.email "github e-mail address"
 ```
 
 [(return to top)](https://github.com/hmteditors/leiden2018-alpha#leiden2018-alpha)
@@ -65,7 +78,7 @@ git pull
 
 [(return to top)](https://github.com/hmteditors/leiden2018-alpha#leiden2018-alpha)
 
-## special characters
+## Special characters
 * · `U+00B7` interpunct (used as middle dot and high dot)
 * ⁑ `U+2051` two asterisks (used as end of scholion mark)
 * † `U+2020` obelus, dagger
@@ -89,7 +102,7 @@ git pull
 
 [(return to top)](https://github.com/hmteditors/leiden2018-alpha#leiden2018-alpha)
 
-## useful links 
+## Useful links 
 * https://homermultitext.github.io/chsseminar/links/
 * https://homermultitext.github.io/chsseminar/scholion-markers/
 * https://homermultitext.github.io/facsimiles/
