@@ -82,7 +82,7 @@ git config --local user.email "github e-mail address"
 ## Special characters
 * · `U+00B7` interpunct (used as middle dot and high dot)
 * ⁑ `U+2051` two asterisks (used as end of scholion mark)
-* † `U+2020` obelus, dagger
+* † `U+2020` obelisk, dagger
 * ‡ `U+2021` diesis, double dagger
 * ¨ `U+00A8` diaeresis, trema
 * digamma (6):
