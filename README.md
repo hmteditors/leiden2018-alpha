@@ -19,6 +19,7 @@ Leiden work on Upsilon 1.1 (`e3`) and Venetus B (`vb`).
 First time:
 ```
 git clone https://github.com/hmteditors/leiden2018-alpha.git
+cd leiden2018-alpha
 ```
 
 Afterwards:
@@ -37,7 +38,7 @@ git config --global user.name "github account name"
 git config --global user.email "github e-mail address"
 ```
 
-To set a default github account specifically for only one repository (optional, in case you have multiple accounts):
+To set a github account specifically for only one repository (optional, in case you have multiple accounts):
 ```
 git config --local user.name "github account name"
 git config --local user.email "github e-mail address"
