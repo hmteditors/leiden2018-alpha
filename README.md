@@ -90,13 +90,17 @@ git pull
 [(return to top)](https://github.com/hmteditors/leiden2018-alpha#leiden2018-alpha)
 
 ## useful links 
-* https://github.com/hmteditors/leiden2018-alpha/
 * https://homermultitext.github.io/chsseminar/links/
 * https://homermultitext.github.io/chsseminar/scholion-markers/
 * https://homermultitext.github.io/facsimiles/
 * https://homermultitext.github.io/hmt-docs/tech/
 * https://interwing.nl/hmt/
 * https://homermultitext.slack.com
+
+Other repositories:
+* https://github.com/hmteditors/2018-office5
+* https://github.com/hmteditors/2018-office8
+* https://github.com/hmteditors/2018-office10
 
 [(return to top)](https://github.com/hmteditors/leiden2018-alpha#leiden2018-alpha)
 
