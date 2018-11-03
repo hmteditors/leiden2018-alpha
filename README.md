@@ -8,9 +8,9 @@ Current editing assignment: beginning from *Iliad* 10.387 in each MS,
 * [Venetus B, folio 137 verso](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_137v_138r)
 
 ## table of contents
-* https://github.com/finite-galaxy/finite-galaxy#git-sequence
-* https://github.com/finite-galaxy/finite-galaxy#greek-counting
-* https://github.com/finite-galaxy/finite-galaxy#useful-links
+* https://github.com/hmteditors/leiden2018-alpha#git-sequence
+* https://github.com/hmteditors/leiden2018-alpha#greek-counting
+* https://github.com/hmteditors/leiden2018-alpha#useful-links
 
 
 ## git sequence
