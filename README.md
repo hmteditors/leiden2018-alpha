@@ -66,25 +66,26 @@ git pull
 [(return to top)](https://github.com/hmteditors/leiden2018-alpha#leiden2018-alpha)
 
 ## special characters
-* · `U+00B7` interpunct, used as middle dot and high dot
-* ⁑ `U+2051` two asterisks, used as end of scholion mark
+* · `U+00B7` interpunct (used as middle dot and high dot)
+* ⁑ `U+2051` two asterisks (used as end of scholion mark)
 * † `U+2020` obelus, dagger
 * ‡ `U+2021` diesis, double dagger
-* digamma:
+* ¨ `U+00A8` diaeresis, trema
+* digamma (6):
   * ϛ `U+03DB` stigma lowercase, Byzantine
   * Ϛ `U+03DA` stigma uppercase, Byzantine
   * ϝ `U+03DD` wau lowercase, ancient
   * Ϝ `U+03DC` wau uppercase, ancient
-* qoppa:
+* qoppa (90):
   * Ϟ `U+03DF` qoppa lowercase, Byzantine
   * ϟ `U+03DE` qoppa uppercase, Byzantine
   * ϙ `U+03D9` qoppa lowercase, ancient
   * Ϙ `U+03D8` qoppa uppercase, ancient
-* sampi:
-  * `U+03E1` sampi lowercase, Byzantine
-  * `U+03E0` sampi uppercase, Byzantine
-  * `U+0373` sampi lowercase, ancient
-  * `U+0372` sampi uppercase, ancient
+* sampi (900):
+  * ϡ `U+03E1` sampi lowercase, Byzantine
+  * Ϡ `U+03E0` sampi uppercase, Byzantine
+  * ͳ `U+0373` sampi lowercase, ancient
+  * Ͳ `U+0372` sampi uppercase, ancient
 
 [(return to top)](https://github.com/hmteditors/leiden2018-alpha#leiden2018-alpha)
 
