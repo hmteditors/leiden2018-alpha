@@ -3,6 +3,7 @@ import org.homermultitext.hmtmom._
 val repo = EditorsRepo(".")
 val mom = HmtMom(repo)
 val reporter = MomReporter(mom)
+val test = "";
 
 
 
