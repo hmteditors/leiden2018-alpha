@@ -5,7 +5,9 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Leonie Henkes</editor>
+        <editor>Olivia Monster</editor>
+        <editor>Philip Muijtjens</editor>
 
       </titleStmt>
       <publicationStmt>
@@ -19,8 +21,12 @@
   <text>
     <body>
       <div n="10">
-        <l n="X">ὣς νῦν μοι ἐθέλουσα παρίστασο καί με φύλασσε-</l>
-        
+        <l n="387">ἦ τινα συλήσων νεκύων κατατεθνειώτων·-</l>
+        <l n="388">ἦ σ' Ἕκτωρ προέηκε διασκοπιάασθαι ἕκαστα-</l>
+        <l n="389">νῆας ἐπὶ γλαφυρὰς: ἤ σ' αὐτὸν θυμὸς ἀνῆκε·-</l>
+        <l n="390">τόν δ' ἠμείβετ' ἐπειτα Δόλων. ὑπο δ' ἔτρεμε γυῖα·-</l>
+        <l n="391">πολλῇσιν μ'ἄτῃσι παρεκ νόον ἤγαγεν Ἕκτωρ.-</l>
+
       </div>
     </body>
   </text>
