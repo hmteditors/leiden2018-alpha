@@ -6,6 +6,8 @@
                 <title>Scholia to Escorial Upsilon 1.1</title>
                 <author>Marloes Velthuisen</author>
                 <author>Suzan Boreel</author>
+                <author>Manon Junggeburt</author>
+                <author>Femke de Vries</author>
 
             </titleStmt>
             <publicationStmt>
@@ -30,7 +32,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.387</p>
                       </div>
                       <div n="comment">
-                          <p>ἐπίτηδες ἐνδόσιμον αὐτῷ καιρὸν ψευσμάτων δίδωσιν. ὅπως δοκιμάσῃ αὐτοῦ τοὺς λόγους·
+                          <p>ἐπίτηδες ἐνδόσιμον αὐτῷ καιρὸν ψευσμάτων δίδωσιν. ὅπως δοκιμάσῃ αὐτοῦ τοὺς λόγους-
                           τί γὰρ παρέτρεχε τοὺς νεκροὺς. εἴπερ σκυλεῦσαι θέλει ⁑</p>
                       </div>
                   </div>
@@ -44,8 +46,8 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.390</p>
                       </div>
                       <div n="comment">
-                          <p>κατάσκοπος γὰρ ἐφωράθη· καὶ εἰ μὴ ἀληθεύοι. <choice><abbr>σρίας</abbr><expand>σωτηρίας</expand></choice>
-                          ἐλπίδα οὐχ' ὁρᾶι· αἱ δὲ συνεχεῖς πεύσεις. οὐκ ἐῶσιν εἰς ψεύδη τραπῆμαι ⁑</p>
+                          <p>κατάσκοπος γὰρ ἐφωράθη- καὶ εἰ μὴ ἀληθεύοι. <choice><abbr>σρίας</abbr><expand>σωτηρίας</expand></choice>
+                          ἐλπίδα οὐχ' ὁρᾶι- αἱ δὲ συνεχεῖς πεύσεις. οὐκ ἐῶσιν εἰς ψεύδη τραπῆμαι ⁑</p>
                       </div>
                   </div>
                   <div n="132v" type="scholion">
@@ -58,7 +60,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.391</p>
                       </div>
                       <div n="comment">
-                          <p>αὔτας ἔφη τὰς ἐπὶ κακῷ ὑποσχέσεις· ὡς ἀναγκασθεὶς δὲ καὶ δελεασθεὶς.
+                          <p>αὔτας ἔφη τὰς ἐπὶ κακῷ ὑποσχέσεις- ὡς ἀναγκασθεὶς δὲ καὶ δελεασθεὶς.
                             καὶ τὴν φρενοβλάβειαν αὐτοῦ ὑποτίθεται. ἔλεον θηρώμενος ⁑</p>
                       </div>
                   </div>
@@ -72,7 +74,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.394</p>
                       </div>
                       <div n="comment">
-                          <p>ἐπεὶ μετὰ δύσιν ἠλίου τάχιστα σκότος γίνεται· ἢ ἐπεὶ διὰ τὸν ὕπνον. ἥττονα αὐτὴν ἡγούμεθα· ἢ τὴν θετικὴν.
+                          <p>ἐπεὶ μετὰ δύσιν ἠλίου τάχιστα σκότος γίνεται- ἢ ἐπεὶ διὰ τὸν ὕπνον. ἥττονα αὐτὴν ἡγούμεθα- ἢ τὴν θετικὴν.
                             ἀποτίθησι γὰρ ἡμᾶς εἰς ἀνάπαυλαν ⁑</p>
                       </div>
                   </div>
@@ -113,7 +115,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.406</p>
                       </div>
                       <div n="comment">
-                          <p>καλῶς τοῦτο πυνθανονται· ἵνα ἐγρηγορότος μὲν καὶ διέποντος τὰς φυλακὰς. ἀπόσχοιντο·
+                          <p>καλῶς τοῦτο πυνθανονται- ἵνα ἐγρηγορότος μὲν καὶ διέποντος τὰς φυλακὰς. ἀπόσχοιντο-
                             καθεύδοντος δὲ, ἐπιχειρήσειαν αὐτὸν ἀνελεῖν ⁑</p>
                       </div>
                   </div>
@@ -127,7 +129,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.407</p>
                       </div>
                       <div n="comment">
-                          <p>εἰκὸς γὰρ ἦν ὡς βασιλέα σκηνοποιεῖσθαι στρατηγικώτερον· ἵνα οὖν κἂν ἀφέλωνται τὰ ὅπλα αὐτοῦ. τούτου χάριν ἐπερωτῶσιν ⁑</p>
+                          <p>εἰκὸς γὰρ ἦν ὡς βασιλέα σκηνοποιεῖσθαι στρατηγικώτερον- ἵνα οὖν κἂν ἀφέλωνται τὰ ὅπλα αὐτοῦ. τούτου χάριν ἐπερωτῶσιν ⁑</p>
                       </div>
                   </div>
                   <div n="132v" type="scholion">
@@ -140,46 +142,124 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.407</p>
                       </div>
                       <div n="comment">
-                          <p> δεῖ τὸ <rs type="waw">ἑστασι</rs> τῷ <rs type="waw">ἵπποι</rs> προσυπακόυειν· οὐ γὰρ κοινὸν τὸ <rs type="waw">κεῖται</rs>⁑</p>
+                          <p> δεῖ τὸ <rs type="waw">ἑστασι</rs> τῷ <rs type="waw">ἵπποι</rs> προσυπακόυειν- οὐ γὰρ κοινὸν τὸ <rs type="waw">κεῖται</rs>⁑</p>
                       </div>
                   </div>
-                  <div n="132v" type="scholion">
+                  <div n="133r" type="scholion">
                       <div n="lemma">
                           <p>
-                            <num value=10">ι</num>
+                            <num value="10">ι</num>
                           </p>
                       </div>
                       <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.407</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.415</p>
                       </div>
                       <div n="comment">
-                          <p> ⁑</p>
+                          <p> στρατηγικῶς τόν τόπον τοῦτον ἐπελέξατο μέσον ὄντα τοῦ πεδίου- ἵνα μὴ οἱ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place3"> Ἕλληνες</rs> ἀποπλεῖν βουλόμενοι λάθοιεν. μήτε εἰς τὴν πόλιν λόχος εἰσέλθῃ⁑</p>
                       </div>
                   </div>
-                  <div n="132v" type="scholion">
+                  <div n="133r" type="scholion">
                       <div n="lemma">
                           <p>
-                            <num value="">α</num>
+                            <num value="11">ια</num>
                           </p>
                       </div>
                       <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.407</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.417</p>
                       </div>
                       <div n="comment">
-                          <p> ⁑</p>
+                          <p>ἀστρατήγητον τὸ πᾶσιν ἐπιτρέψαι τὴν φυλακὴν ἑκουσίως. καὶ πολλῆς τῆς ἀλαζομείας- καταφρονεῖ γὰρ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place3">Ἑλλήνων</rs> ⁑</p>
                       </div>
                   </div>
-                  <div n="132v" type="scholion">
+                  <div n="133r" type="scholion">
                       <div n="lemma">
                           <p>
-                            <num value="1">α</num>
+                            <num value="12">ιβ</num>
                           </p>
                       </div>
                       <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.407</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.418</p>
                       </div>
                       <div n="comment">
-                          <p>⁑</p>
+                          <p>ὅσαι <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρώων</rs> ἑστίαι καὶ οἰκίαι- οἱον εί ὅσοι εἰσὶν εθάδες <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρῶες</rs>. οὗτοι φυλάσσουσιν- ἐκ γὰρ τῆς τὸν πολίτην δηλοῖ- ἀν έστιος δὲ ὁ ἄπολις καὶ  ἄοικος ⁑</p>
+                      </div>
+                  </div>
+                  <div n="133r" type="scholion">
+                      <div n="lemma">
+                          <p>
+                            <num value=""></num>
+                          </p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.418</p>
+                      </div>
+                      <div n="comment">
+                          <p>  ⁑</p>
+                      </div>
+                  </div>
+                  <div n="133r" type="scholion">
+                      <div n="lemma">
+                          <p>
+                            <num value=""></num>
+                          </p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.418</p>
+                      </div>
+                      <div n="comment">
+                          <p>  ⁑</p>
+                      </div>
+                  </div>
+                  <div n="133r" type="scholion">
+                      <div n="lemma">
+                          <p>
+                            <num value=""></num>
+                          </p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.418</p>
+                      </div>
+                      <div n="comment">
+                          <p>  ⁑</p>
+                      </div>
+                  </div>
+                  <div n="133r" type="scholion">
+                      <div n="lemma">
+                          <p>
+                            <num value=""></num>
+                          </p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.418</p>
+                      </div>
+                      <div n="comment">
+                          <p>  ⁑</p>
+                      </div>
+                  </div>
+                  <div n="133r" type="scholion">
+                      <div n="lemma">
+                          <p>
+                            <num value=""></num>
+                          </p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.418</p>
+                      </div>
+                      <div n="comment">
+                          <p>  ⁑</p>
+                      </div>
+                  </div>
+                  <div n="133r" type="scholion">
+                      <div n="lemma">
+                          <p>
+                            <num value=""></num>
+                          </p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.418</p>
+                      </div>
+                      <div n="comment">
+                          <p>  ⁑</p>
                       </div>
                   </div>
                 </body>
