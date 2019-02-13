@@ -13,6 +13,13 @@ Leiden work on Upsilon 1.1 (`e3`) and Venetus B (`vb`).
 * [Upsilon 1.1, folio 132 verso + 133 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_132v_133r): *Iliad* 10.387-410 and 10.411-434
 * [Venetus B, folio 137 verso + 138 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_137v_138r): *Iliad* 10.387-410 and 10.411-434
 
+## Second editing assignment
+
+(posted 12 Feb. 2019)
+
+- [Upsilon 1.1, folio 133 verso + 134 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_133v_134r)
+- [Venetus B, folio 138 verso + 139 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_138v_139r)
+
 [(return to top)](https://github.com/hmteditors/leiden2018-alpha#leiden2018-alpha)
 
 ## git sequence
