@@ -247,20 +247,20 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.428</p>
                       </div>
                       <div n="comment">
-                          <p>πρὸς σύγκρισιν τῆς Θύμβρης προστέθειται  ⁑</p>
+                          <p>πρὸς σύγκρισιν τῆς Θύμβρης προστέθειται τὸ ἁλός- θαλασσοκράτορας δὲ φαίνεται πρώην κάρας εἴναι ⁑</p>
                       </div>
                   </div>
                   <div n="133r" type="scholion">
                       <div n="lemma">
                           <p>
-                            <num value=""></num>
+                            <num value="18">ιη</num>
                           </p>
                       </div>
                       <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.418</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.431</p>
                       </div>
                       <div n="comment">
-                          <p>  ⁑</p>
+                          <p>οἱ μὲν νεώτεροι συγχέουσι Φρύγας καὶ Τρῶας- φαίνεται δὲ ὁ ποιητής ἐπικούρους Τρώων αὐτοὺς καλῶν ⁑</p>
                       </div>
                   </div>
                 </body>
