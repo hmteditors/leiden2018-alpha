@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
+        <editor>Kirsten Haijes</editor>
         <editor>Leonie Henkes</editor>
         <editor>Olivia Monster</editor>
         <editor>Philip Muijtjens</editor>
         <editor>Marloes Velthuisen</editor>
-        <editor>Kirsten Haijes</editor>
-
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>

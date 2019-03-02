@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -9,7 +8,6 @@
         <editor>Suzan Boreel</editor>
         <editor>Manon Junggeburt</editor>
         <editor>Femke de Vries</editor>
-
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Escorial manuscript Upsilon 1.1 for the Homer Multitext project</p>
